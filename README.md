@@ -15,23 +15,12 @@ This project provides an interactive and visually appealing dashboard for analyz
 
 ## 📊 Tools & Technologies
 
-- **Power BI**: For creating an interactive dashboard and data visualization.
+- **Microsoft Excel**: For creating an interactive dashboard and data visualization.
 - **Data Analysis**: Leveraging insightful visuals and filters to explore sales data and trends.
 
 ## 📸 Screenshots
 
-![Dashboard Screenshot](relative/path/to/Screenshot.png)
-
-## 🚀 Getting Started
-
-To explore the dashboard and analysis:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/blinkit-data-analysis.git
-   ```
-2. Open the `.pbix` file in **Power BI Desktop** to interact with the visuals and filters.
-3. Review the `Screenshot.png` for a snapshot of the dashboard.
+![Dashboard Screenshot](Blinkit.png)
 
 ## 📝 Insights Derived
 
@@ -40,11 +29,6 @@ To explore the dashboard and analysis:
 - **Outlet Trends**: High-sized outlets contribute the highest sales (37%).
 - **Popular Categories**: Fruits, Vegetables, and Snack Foods are the top-performing item types.
 
-## 📂 Project Structure
-
-- `Dashboard.pbix` - Power BI project file.
-- `Screenshot.png` - Dashboard preview image.
-- `README.md` - Project documentation.
 
 ## 💡 Future Enhancements
 
